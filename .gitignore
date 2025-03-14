@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+/data
+utils.py
+results/runs-overview
+results/segments-overview
+
 # Distribution / packaging
 .Python
 build/
